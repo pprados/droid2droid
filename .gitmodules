@@ -1,0 +1,6 @@
+[submodule "root"]
+	path = root
+	url = https://code.google.com/p/droid2droid.root/
+[submodule "apps"]
+	path = apps
+	url = https://code.google.com/p/droid2droid.apps/
